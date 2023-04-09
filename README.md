@@ -9,7 +9,7 @@ Los archivos podemos verlos de la siguiente manera:
 
 feria_del_libro-1.xlsx base de datos original.
 
-Ferialibro.xlsx base de datos utilizada para el trabajo luego de hacer el procesimiento del data set.
+Ferialibro.xlsx base de datos utilizada para el trabajo luego de hacer el procesimiento de limpieza del data set original.
 
 El archivo .pbix es el tablero en PowerBI luego del mismo nombre lo tenemos en PDF por ultimo tenmos los informes del trabajo tanto en PDF como Word.
 
